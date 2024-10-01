@@ -80,7 +80,7 @@ ul li.checked {
     text-decoration: line-through;
 }
 ul li.checked::before {
-    background-image: url(./images/cross-mark_274c.png);
+    background-image: url(./images/check-mark_2714-fe0f.png);
 }
 ul li span {
     position: absolute;
